@@ -1,0 +1,4 @@
+requests
+cairocffi
+cairosvg
+pygal
